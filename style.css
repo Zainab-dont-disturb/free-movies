@@ -1,0 +1,36 @@
+.display{
+background-color:rgb(255, 179, 179);
+border:6px solid rgb(255, 179, 179);
+border-radius:10px;
+box-shadow: 6px 8px 10px pink;
+margin:100px 400px 100px 400px;
+height:100px;
+width:400px;
+}
+#numbers{
+    border-radius:7px;
+    width:80px;
+height:30px;
+background-color: palevioletred;
+
+
+
+    }
+    .numberr{
+        border-radius:7px;
+        width:80px;
+    height:30px;
+    background-color:plum;
+    
+    
+    
+        }
+        .clear{
+            border-radius:7px;
+            width:80px;
+        height:30px;
+        background-color:red;
+        
+        
+        
+            }
